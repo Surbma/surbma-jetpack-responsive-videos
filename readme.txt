@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: jetpack, responsive, responsive video, responsive videos, video, videos
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,20 @@ One of the things that is often overlooked when developing a responsive theme is
 
 This plugin ensures that any videos are responsive, no additional markup or special coding required. It just works! Every video on your site will display just as nicely on mobile devices as they do on your largest display.
 
+**Do you want to contribute or help improving this plugin?**
+
+You can find it on GitHub: [https://github.com/Surbma/surbma-jetpack-responsive-videos](https://github.com/Surbma/surbma-jetpack-responsive-videos)
+
+**You can find my other plugins and projects on GitHub:**
+
+[https://github.com/Surbma](https://github.com/Surbma)
+
+Please feel free to contribute, help or recommend any new features for my plugins, themes and other projects.
+
+**Do you want to know more about me?**
+
+Visit my webpage: [Surbma.com](http://surbma.com/)
+
 == Installation ==
 
 1. Upload `surbma-jetpack-responsive-videos` folder to the `/wp-content/plugins/` directory
@@ -33,6 +47,10 @@ This plugin ensures that any videos are responsive, no additional markup or spec
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.1 =
+
+- Changed description.
 
 = 1.0.0 =
 
