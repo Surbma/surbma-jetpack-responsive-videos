@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Surbma - Jetpack Responsive Videos
+Plugin Name: Jetpack Responsive Videos
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Adds Jetpack's responsive video support to your website.
 

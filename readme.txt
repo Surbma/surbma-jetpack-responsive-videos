@@ -1,9 +1,9 @@
-=== Surbma - Jetpack Responsive Videos ===
+=== Jetpack Responsive Videos ===
 Contributors: Surbma
-Donate link: http://surbma.com/
+Donate link: http://surbma.com/donate/
 Tags: jetpack, responsive, responsive video, responsive videos, video, videos
-Requires at least: 3.0
-Tested up to: 4.2
+Requires at least: 4.0
+Tested up to: 4.9
 Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
