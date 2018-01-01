@@ -1,4 +1,4 @@
-=== Jetpack Responsive Videos ===
+=== Surbma - Jetpack Responsive Videos ===
 Contributors: Surbma
 Donate link: http://surbma.com/donate/
 Tags: jetpack, responsive, responsive video, responsive videos, video, videos
