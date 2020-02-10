@@ -1,10 +1,11 @@
-=== Surbma - Jetpack Responsive Videos ===
-Contributors: Surbma
-Donate link: http://surbma.com/donate/
+=== Surbma | Jetpack Responsive Videos ===
+Contributors: Surbma, CherryPickStudios
+Donate link: https://surbma.com/donate/
 Tags: jetpack, responsive, responsive video, responsive videos, video, videos
-Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 1.0.1
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,12 +33,12 @@ Please feel free to contribute, help or recommend any new features for my plugin
 
 **Do you want to know more about me?**
 
-Visit my webpage: [Surbma.com](http://surbma.com/)
+Visit my webpage: [Surbma.com](https://surbma.com/)
 
 == Installation ==
 
 1. Upload `surbma-jetpack-responsive-videos` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Jetpack Responsive Videos plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Jetpack Responsive Videos plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -47,6 +48,13 @@ Visit my webpage: [Surbma.com](http://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-02-10
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 1.0.1 =
 
