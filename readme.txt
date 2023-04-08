@@ -3,7 +3,7 @@ Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: jetpack, responsive, responsive video, responsive videos, video, videos
 Requires at least: 5.1
-Tested up to: 5.8
+Tested up to: 6.2
 Stable tag: 2.0
 Requires PHP: 7.0
 License: GPLv2
